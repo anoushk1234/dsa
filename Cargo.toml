@@ -1,0 +1,5 @@
+[workspace]
+members=["dsa"]
+
+[workspace.dependencies]
+rand="0.8.5"
